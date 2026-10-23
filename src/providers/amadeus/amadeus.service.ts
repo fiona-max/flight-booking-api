@@ -209,6 +209,10 @@ class AmadeusService {
       }
     }
   }
+
+  async seatMap():Promise<any>{
+
+  }
 }
 
 export default AmadeusService;
